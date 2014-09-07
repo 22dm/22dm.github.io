@@ -1,0 +1,11 @@
+---
+layout: default_index
+title: Lhy's Blog
+---
+<ul>
+  {% for post in site.posts %}
+  <li style="list-style-type:none;">
+    <h3> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+    {{ post.date | date_to_string }}</li>
+  {% endfor %}
+</ul>
