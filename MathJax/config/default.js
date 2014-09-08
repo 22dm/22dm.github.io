@@ -89,7 +89,7 @@ MathJax.Hub.Config({
   //   If you change the input jax, you may need to include the appropriate
   //   preprocessor in the extensions array below.
   //  
-  jax: ["input/TeX", "output/HTML-CSS"],
+  jax: ["input/TeX", "output/SVG"],
   
   //
   //  A comma-separated list of extensions to load at startup.  The default
@@ -233,7 +233,7 @@ MathJax.Hub.Config({
   //  the MathJax cookie when users change the menu settings).
   //  
   menuSettings: {
-    zoom: "None",        //  when to do MathZoom
+    zoom: "Click",        //  when to do MathZoom
     CTRL: false,         //    require CTRL for MathZoom?
     ALT: false,          //    require Alt or Option?
     CMD: false,          //    require CMD?
