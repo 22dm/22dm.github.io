@@ -19,10 +19,11 @@ Git查看、删除、重命名远程分支和tag: <http://zengrong.net/post/1746
 
 <!-- Blog Comments -->
 <div class="media">
-  <!-- UY BEGIN -->
-  <div id="uyan_frame">
-  </div>
-  <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=1511840">
-  </script>
-  <!-- UY END -->
+  <!-- DISQUS BEGIN -->
+<noscript>
+Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+  <!-- DISQUS END -->
 </div>
