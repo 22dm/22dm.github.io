@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tags
+title: 标签
 ---
 <div>
 {% for tag in site.tags %} 
