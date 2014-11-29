@@ -10,13 +10,12 @@
 	left:0;
 	top:0;
 	height:0px;
-	line-height:250px;
+	line-height:0px;
 	padding:0 150px;
 	width:100%;
 	font-size: 20px;
 	background-color: rgba(255, 255, 255, 0.15);
 	color: #fff;
-	overflow: hidden;
 	/*text-shadow: 1px 1px 3px #333;*/
 	/*box-shadow: 0 1px 0 #999;*/
 }
